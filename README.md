@@ -18,5 +18,5 @@ Ikuti langkah-langkah ini untuk proses instalasi :
 6. Buka phpMyAdmin (localhost/phpmyadmin).
 7. Buat database dengan nama adventureworks2022.
 8. Import file `adventureworks2022.sql` ke dalam database adventureworks2022.
-9. Pindahkan isi pada folder `Mondrian OLAP` ke dalam folder server Tomcat bawaan dari XAMPP (xampp/tomcat/webapps).
+9. Pindahkan isi pada folder `Mondrian OLAP` ke dalam folder server Tomcat bawaan dari XAMPP `C:\xampp\tomcat\webapps\mondrian\WEB-INF\queries`.
 10. Jalankan aplikasi dengan mengakses http://localhost/dwo
