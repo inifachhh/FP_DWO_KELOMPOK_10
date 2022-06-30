@@ -11,7 +11,7 @@ Adventure Works merupakan salah satu sampel Online Transaction Processing (OLTP)
 Ikuti langkah-langkah ini untuk proses instalasi :
 
 1. Install database server: MySql (disini kami menggunakan XAMPP versi terbaru).
-2. Install software mysql management: phpMyAdmin dari XAMPP (ATAU YG LAIN).
+2. Install Mondrian: phpMyAdmin dari XAMPP (ATAU YG LAIN).
 3. Extract `FP_DWO_KELOMPOK_10.zip` pada folder htdocs XAMPP (xampp/htdocs).
 4. Jalankan Xampp control panel.
 5. Start apache dan mysql server.
