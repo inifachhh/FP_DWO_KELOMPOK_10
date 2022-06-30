@@ -1,12 +1,10 @@
-# [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
+# [Dashboard AdventureWorks2022](https://startbootstrap.com/theme/sb-admin-2/)
 
-[SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
-
-For the legacy Bootstrap 3 version of this theme, you can view the [last stable release](https://github.com/StartBootstrap/startbootstrap-sb-admin-2/releases/tag/v3.3.7%2B1) of SB Admin 2 for Bootstrap 3.
+Adventure Works merupakan salah satu sampel Online Transaction Processing (OLTP) database buatan Microsoft yang tersedia pada SQL Server 2005. Database Adventureworks didalamnya berisikan 70 tabel dengan berbagai macam data dari suatu perusahaan manufaktur fiktif yang bernama Adventureworks Cycles. Perusahaan tersebut merupakan perusahaan multinasional yang memproduksi sekaligus menjual sepeda beserta aksesorisnya. Perusahaan ini berbasis di kota Bothell, Washington, Amerika Serikat dan memiliki beberapa kantor penjualan di beberapa negara lainnya.
 
 ## Preview
 
-[![SB Admin 2 Preview](https://assets.startbootstrap.com/img/screenshots/themes/sb-admin-2.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
+[![Dashboard Preview](https://cdn.discordapp.com/attachments/811826055177568267/989591946697777202/unknown.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 **[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
 
