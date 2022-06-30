@@ -11,8 +11,8 @@ Adventure Works merupakan salah satu sampel Online Transaction Processing (OLTP)
 Ikuti langkah-langkah ini untuk proses instalasi :
 
 1. Install database server: MySql (disini kami menggunakan XAMPP versi terbaru).
-2. Pastikan sudah install [mondrian](https://drive.google.com/file/d/1VbbMnYrhIUE91nkz1A586fcmoG3fNBaS/view) dengan cara menempatkannya pada `C:\Xampp\tomcat\webapps`.
-3. Pastikan Di dalam library mondrian terinstall [mysql connector](https://ilmu.upnjatim.ac.id/mod/resource/view.php?id=150007) dengan cara menempatkannya pada `C:\Xampp\tomcat\webapps\mondrian\WEB-INF\lib`.
+2. Pastikan sudah install [mondrian](https://drive.google.com/file/d/1VbbMnYrhIUE91nkz1A586fcmoG3fNBaS/view) dengan cara mengaktifkan tomcat pada XAMPP dan tempatkan file tersebut pada `C:\Xampp\tomcat\webapps`, setelah itu matikan tomcat dan hapus kembali file `mondrian.war`.
+3. Pastikan Di dalam library mondrian sudah terinstall [mysql connector](https://ilmu.upnjatim.ac.id/mod/resource/view.php?id=150007) dengan cara menempatkannya pada `C:\Xampp\tomcat\webapps\mondrian\WEB-INF\lib`.
 4. Extract `FP_DWO_KELOMPOK_10.zip` pada folder htdocs XAMPP (xampp/htdocs).
 5. Jalankan Xampp control panel.
 6. Start apache ,mysql server, dan Tomcat.
