@@ -4,17 +4,7 @@ Adventure Works merupakan salah satu sampel Online Transaction Processing (OLTP)
 
 ## Preview
 
-[![Dashboard Preview](https://cdn.discordapp.com/attachments/811826055177568267/989591946697777202/unknown.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
-
-**[Launch Live Preview](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)**
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-sb-admin-2/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-sb-admin-2.svg)](https://www.npmjs.com/package/startbootstrap-sb-admin-2)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin-2.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-sb-admin-2)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-sb-admin-2?type=dev)
+[![Dashboard Preview](https://cdn.discordapp.com/attachments/814360092442099772/992129711465566268/unknown.png)](https://startbootstrap.github.io/startbootstrap-sb-admin-2/)
 
 ## Download and Installation
 
