@@ -11,12 +11,13 @@ Adventure Works merupakan salah satu sampel Online Transaction Processing (OLTP)
 Ikuti langkah-langkah ini untuk proses instalasi :
 
 1. Install database server: MySql (disini kami menggunakan XAMPP versi terbaru).
-2. Pastikan Di dalam library mondrian terinstall `mysql connector`
-3. Extract `FP_DWO_KELOMPOK_10.zip` pada folder htdocs XAMPP (xampp/htdocs).
-4. Jalankan Xampp control panel.
-5. Start apache ,mysql server, dan Tomcat.
-6. Buka phpMyAdmin (localhost/phpmyadmin).
-7. Buat database dengan nama adventureworks2022.
-8. Import file `adventureworks2022.sql` ke dalam database adventureworks2022.
-9. Pindahkan isi pada folder `Mondrian OLAP` ke dalam folder server Tomcat bawaan dari XAMPP `C:\xampp\tomcat\webapps\mondrian` - Pilih Replace File. Kemudian file dengan awalan bernama `dwoadw` pindahkan menuju `C:\xampp\tomcat\webapps\mondrian\WEB-INF\queries`
-10. Jalankan aplikasi dengan mengakses http://localhost/FP_DWO_KELOMPOK_10
+2. Pastikan sudah instal [mondrian](https://drive.google.com/file/d/1VbbMnYrhIUE91nkz1A586fcmoG3fNBaS/view) dengan cara menempatkannya pada `C:\Xampp\tomcat\webapps`.
+3. Pastikan Di dalam library mondrian terinstall [mysql connector](https://ilmu.upnjatim.ac.id/mod/resource/view.php?id=150007) dengan cara menempatkannya pada `C:\Xampp\tomcat\webapps\mondrian\WEB-INF\lib`.
+4. Extract `FP_DWO_KELOMPOK_10.zip` pada folder htdocs XAMPP (xampp/htdocs).
+5. Jalankan Xampp control panel.
+6. Start apache ,mysql server, dan Tomcat.
+7. Buka phpMyAdmin (localhost/phpmyadmin).
+8. Buat database dengan nama adventureworks2022.
+9. Import file `adventureworks2022.sql` ke dalam database adventureworks2022.
+10. Pindahkan isi pada folder `Mondrian OLAP` ke dalam folder server Tomcat bawaan dari XAMPP `C:\xampp\tomcat\webapps\mondrian` - Pilih Replace File. Kemudian file dengan awalan bernama `dwoadw` pindahkan menuju `C:\xampp\tomcat\webapps\mondrian\WEB-INF\queries`
+11. Jalankan aplikasi dengan mengakses http://localhost/FP_DWO_KELOMPOK_10
